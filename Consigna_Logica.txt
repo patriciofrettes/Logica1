@@ -1,0 +1,3 @@
+Realizar un programa que permita el intercambio de varoles entre dos variables.
+Por ejemplo: Si una variable "numero"vale 35 y una variable "numero2" vale 20, realizar las acciones necesarias para que "numero" valga 20 y "numero2" valga 35.
+Una vez realizado el cambio mostrar el resultado por pantalla.
